@@ -1,10 +1,14 @@
 ## 👋 Hi there
 
-- **🔭 I’m currently working on an **FRC scouting app** to help teams analyze match data.**
-- **🌱 I’m currently learning **Flutter (Dart)** and **microcontroller programming** using the **Arduino IDE**.**
-- **💬 Ask me about **Unity, Blender, Python, Java, C#, and microcontrollers**.**
-- **📫 How to reach me: *journoelhay@gmail.com*  **
-- **⚡ Fun fact: I love building things that combine hardware and software!**
+### 🔭 **I’m currently working on an FRC scouting app to help teams analyze match data.**
+
+### 🌱 **I’m currently learning Flutter (Dart) and microcontroller programming using the Arduino IDE.**
+
+### 💬 **Ask me about Unity, Blender, Python, Java, C#, and microcontrollers.**
+
+### 📫 **How to reach me: journoelhay@gmail.com**
+
+### ⚡ **Fun fact: I love building things that combine hardware and software!**
 
 ---
 
