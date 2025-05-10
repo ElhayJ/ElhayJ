@@ -1,10 +1,10 @@
 ## 👋 Hi there
 
-- 🔭 I’m currently working on an **FRC scouting app** to help teams analyze match data.
-- 🌱 I’m currently learning **Flutter (Dart)** and **microcontroller programming** using the **Arduino IDE**.
-- 💬 Ask me about **Unity, Blender, Python, Java, C#, and microcontrollers**.
-- 📫 How to reach me: *journoelhay@gmail.com*  
-- ⚡ Fun fact: I love building things that combine hardware and software!
+- **🔭 I’m currently working on an **FRC scouting app** to help teams analyze match data.**
+- **🌱 I’m currently learning **Flutter (Dart)** and **microcontroller programming** using the **Arduino IDE**.**
+- **💬 Ask me about **Unity, Blender, Python, Java, C#, and microcontrollers**.**
+- **📫 How to reach me: *journoelhay@gmail.com*  **
+- **⚡ Fun fact: I love building things that combine hardware and software!**
 
 ---
 
@@ -22,7 +22,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio" />
 </p>
-
-### 🧩 Other Tools & Platforms
-- ![ESP32](https://img.shields.io/badge/ESP32-Microcontroller-blue?logo=espressif&style=flat-square)
-- ![FRC](https://img.shields.io/badge/FRC-FIRST Robotics Competition-red?style=flat-square)
